@@ -104,4 +104,4 @@ Additionally, I learned how to use **LeanKit** for project tracking and **Miro**
 - **Risk Register**: Comprehensive list of vulnerabilities, impacts, and mitigation efforts.
 
 ## Document
-- access the detailed cybersecurity plan
+- access the detailed [cybersecurity plan](./CyberSecurityPlan.pdf).
